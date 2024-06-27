@@ -1,7 +1,7 @@
-#my projects
+# my projects
 this project are my exercise for secound session of pyton learn !
 
-##games
+## games
 i simulated two games **(paper,scissors,rock)** and **(dice)**
 you can play by runnin programs
 -------
